@@ -1,5 +1,7 @@
-# List of best books read in 2025 by Botany 563 Spring 2024 class
-- Cecelia: the priory of the orange tree 
+# List of best books read in 2025 by Botany 563 Spring 2025 class
+- Cecelia: the priory of the orange tree
+- Aharon: Heichaltzu: On Ahavas Yisrael by Rabbi Sholom Dov Ber Schneersohn 
+- Aviva: I am reading Wicked right now
 
 # List of best books read in 2023 by Botany 563 Spring 2024 class
 - Roberto: The famine plot by Tim Pat Coogan
@@ -16,7 +18,7 @@
 - Jamie : The court of thorns and roses 
 - Kaiju Preservation Society by John Scalzi
 -Thalia: The Bluest Eye, Toni Morrison
-- Aviva: I'm reading Wicked right now 
+
 
 
 
