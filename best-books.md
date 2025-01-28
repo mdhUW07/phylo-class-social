@@ -13,7 +13,7 @@
 - Jamie : The court of thorns and roses 
 - Kaiju Preservation Society by John Scalzi
 -Thalia: The Bluest Eye, Toni Morrison
-
+- Aviva: I'm reading Wicked right now 
 
 
 
