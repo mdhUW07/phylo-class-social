@@ -1,3 +1,5 @@
+- Mariana: Meu Corpo Virou Poesia by Bruna Vieira
+
 # List of best books read in 2023 by Botany 563 Spring 2024 class
 - Roberto: The famine plot by Tim Pat Coogan
 - -Laurel Sutherland
