@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+## this project
+side-docs/*
+data/*
+announcements/*
+exercises/phyluce-tutorial/*
+
+>>>>>>> 41a2dc136267428a596fefde5d0f0a32193fd414
 # Compiled source #
 ###################
 *.com
@@ -128,7 +137,10 @@ Backup[ ]of[ ]*.numbers/
 *.nosex
 
 ## html
+<<<<<<< HEAD
 *.html
+=======
+>>>>>>> 41a2dc136267428a596fefde5d0f0a32193fd414
 *.css
 *.js
 *.ttf
@@ -141,6 +153,10 @@ Backup[ ]of[ ]*.numbers/
 *.fa
 *.dat
 *.paml
+<<<<<<< HEAD
+=======
+*fastq*
+>>>>>>> 41a2dc136267428a596fefde5d0f0a32193fd414
 
 ### Mathematica
 *.nb
