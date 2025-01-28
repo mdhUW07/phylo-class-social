@@ -2,8 +2,7 @@
 # List of best books read in 2024 by Botany 563 Spring 2025 class
 - Melette: Never Whistle at Night
 - Cecelia: the priory of the orange tree
-- Lauren: The Handmaids Tale
-- Aharon: Heichaltzu: On Ahavas Yisrael by Rabbi Sholom Dov Ber Schneersohn 
+- Aharon: Heichaltzu: On Ahavas Yisrael by Rabbi Sholom Dov Ber Schneersohn
 - Lauren: The Handmaids Tale
 - Ty: Crime and Punishment, Dostoevsky
 - Aviva: I am reading Wicked right now
