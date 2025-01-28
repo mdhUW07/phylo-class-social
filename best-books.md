@@ -1,9 +1,9 @@
-
-
 # List of best books read in 2025 by Botany 563 Spring 2024 cla-ss
 - Cecelia: the priory of the orange tree
 - Aharon: Heichaltzu: On Ahavas Yisrael by Rabbi Sholom Dov Ber Schneersohn 
-- Mariana: Meu Corpo Virou Poesia by Bruna Vi
+- Mariana: Meu Corpo Virou Poesia by Bruna Vieira
+- Ty: Crime and Punishment, Dostoevsky 
+:
 
 # List of best books read in 2023 by Botany 563 Spring 2024 class
 
@@ -21,6 +21,12 @@
 - Jamie : The court of thorns and roses 
 - Kaiju Preservation Society by John Scalzi
 -Thalia: The Bluest Eye, Toni Morrison
+<<<<<<< HEAD
+-Ty: Crime and Punishment, Fyodor Dostoevsky
+
+
+=======
+>>>>>>> 99dbb0b7e533ffc9dc7845cb62407300f257ea0f
 
 # List of best books read in 2022 by Botany 563 Spring 2023 class
 
