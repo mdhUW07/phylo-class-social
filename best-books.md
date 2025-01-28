@@ -2,6 +2,7 @@
 
 # List of best books read in 2025 by Botany 563 Spring 2025 class
 - Cecelia: the priory of the orange tree
+- Lauren: The Handmaids Tale
 - Aharon: Heichaltzu: On Ahavas Yisrael by Rabbi Sholom Dov Ber Schneersohn 
 - Ty: Crime and Punishment, Dostoevsky
 - Aviva: I am reading Wicked right now
