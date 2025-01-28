@@ -1,3 +1,4 @@
+
 # List of best books read in 2023 by Botany 563 Spring 2024 class
 - Roberto: The famine plot by Tim Pat Coogan
 - -Laurel Sutherland
@@ -13,6 +14,7 @@
 - Jamie : The court of thorns and roses 
 - Kaiju Preservation Society by John Scalzi
 -Thalia: The Bluest Eye, Toni Morrison
+-Sara: Beloved, Toni Morrison
 
 
 
