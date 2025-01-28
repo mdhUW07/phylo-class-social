@@ -1,6 +1,6 @@
-# List of best books read in 2024 by Botanty 563 Spring 2025 class
-- Aharon: Heichaltzu: On Ahavas Yisrael by Rabbi Sholom Dov Ber Schneersohn
-
+# List of best books read in 2025 by Botany 563 Spring 2024 class
+- Cecelia: the priory of the orange tree
+- Aharon: Heichaltzu: On Ahavas Yisrael by Rabbi Sholom Dov Ber Schneersohn 
 
 
 # List of best books read in 2023 by Botany 563 Spring 2024 class
