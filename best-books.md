@@ -24,11 +24,6 @@
 -Thalia: The Bluest Eye, Toni Morrison
 
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 94b75ca54f92f1ba28d8b554cf2b64ebe26bb6bd
 # List of best books read in 2022 by Botany 563 Spring 2023 class
 - Hongyi Huang: The Lord of the Rings
 - Ben Rush: LOTR series
