@@ -1,12 +1,13 @@
-<<<<<< HEAD
-- Mariana: Meu Corpo Virou Poesia by Bruna Vieira
-=======
-# List of best books read in 2025 by Botany 563 Spring 2024 class
-- Cecelia: the priory of the orange tree 
->>>>>>> 8bbb38520a37895b5c20344a79bb745d5de58360
+
+
+# List of best books read in 2025 by Botany 563 Spring 2024 cla-ss
+- Cecelia: the priory of the orange tree
+- Aharon: Heichaltzu: On Ahavas Yisrael by Rabbi Sholom Dov Ber Schneersohn 
+- Mariana: Meu Corpo Virou Poesia by Bruna Vi
 
 # List of best books read in 2023 by Botany 563 Spring 2024 class
-- Roberto: The famine plot by Tim Pat Coogan
+
+-Roberto: The famine plot by Tim Pat Coogan
 - -Laurel Sutherland
 - Sarah: Les Miserables by Victor Hugo
 - Jackie Lemaire: Lessons in Chemistry
@@ -21,14 +22,10 @@
 - Kaiju Preservation Society by John Scalzi
 -Thalia: The Bluest Eye, Toni Morrison
 
-
-
-
 # List of best books read in 2022 by Botany 563 Spring 2023 class
+
 - Hongyi Huang: The Lord of the Rings
 - Ben Rush: LOTR series
-
-
 - Patricia Zito: Molecular Biology of the Cell (horror)
 - Corbin Bryan: Amanitas of the South Eastern United States
 - Ben Klementz: Cujo by Stephen King
@@ -42,12 +39,6 @@
 - Austin VanDenTop: Project Hail Mary by Andy Weir
 
 # List of best books read in 2021 by Botany 563 Spring 2022 class
-
-
-
-
-
-
 
 - Ayken Askapuli: Selfish Gene by Richard Dawkins 
 - Kaustubh Amritkar: The Kite Runner
@@ -76,6 +67,7 @@ All the bright places- Jennifer Niven
 
 
 # List of best books read in 2020 by Botany 563 Spring 2021 class
+
 - Claudia Solis-Lemus: The 7.5 deaths of Evelyn Hardcastle by Stuart Turton (mystery)
 - Kelsey Huisman: Killers of the Flower Moon by Brian Grann (true crime)
 - Grant Nickles: The Scythe Trilogy by Neal Shusterman
