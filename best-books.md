@@ -1,4 +1,5 @@
-# List of best books read in 2024 by Botany 563 Spring 2025 class
+ List of best books read in 2024 by Botany 563 Spring 2025 class
+- Mariana: Meu Corpo Virou Poesia by Bruna Vieira
 - Melette: Never Whistle at Night
 - Cecelia: the priory of the orange tree
 - Aharon: Heichaltzu: On Ahavas Yisrael by Rabbi Sholom Dov Ber Schneersohn 
@@ -8,8 +9,14 @@
 - Sydney: The Midnight Library by Matt Haig
 - Alan: Border City by Shen Congwen
 
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> 4d3eb055533387e450e413e7d60a744ad4116a15
 # List of best books read in 2023 by Botany 563 Spring 2024 class
-- Roberto: The famine plot by Tim Pat Coogan
+
+-Roberto: The famine plot by Tim Pat Coogan
 - -Laurel Sutherland
 - Sarah: Les Miserables by Victor Hugo
 - Jackie Lemaire: Lessons in Chemistry
