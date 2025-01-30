@@ -1,11 +1,18 @@
+<<<<<<< HEAD
 # List of best books read in 2025 by Botany 563 Spring 2024 class
 
 - Cecelia: the priory of the orange tree 
 - Sara: Beloved, Toni Morrison
+=======
+# List of best books read in 2024 by Botany 563 Spring 2025 class
+- Melette: Never Whistle at Night
+- Cecelia: the priory of the orange tree
+>>>>>>> ca42c402d7d8133b343017adb33a80958b3ba25f
 - Aharon: Heichaltzu: On Ahavas Yisrael by Rabbi Sholom Dov Ber Schneersohn 
 - Lauren: The Handmaids Tale
 - Ty: Crime and Punishment, Dostoevsky
 - Aviva: I am reading Wicked right now
+- Alan: Border City by Shen Congwen
 
 
 # List of best books read in 2023 by Botany 563 Spring 2024 class
