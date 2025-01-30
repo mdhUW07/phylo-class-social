@@ -6,6 +6,7 @@
 - Lauren: The Handmaids Tale
 - Ty: Crime and Punishment, Dostoevsky
 - Aviva: I am reading Wicked right now
+- Alan: Border City by Shen Congwen
 
 
 
