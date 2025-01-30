@@ -18,6 +18,7 @@
 - Alan: Border City by Shen Congwen
 
 
+
 # List of best books read in 2024 by Botany 563 Spring 2025 class
 - Melette: Never Whistle at Night
 - Cecelia: the priory of the orange tree
@@ -26,7 +27,6 @@
 - Ty: Crime and Punishment, Dostoevsky
 - Aviva: I am reading Wicked right now
 - Sara: Beloved, Toni Morrison
-
 
 
 # List of best books read in 2023 by Botany 563 Spring 2024 class
@@ -93,9 +93,6 @@
 All the bright places- Jennifer Niven
 - Aidyn Kehrli: The Giver by Lois Lowry 
 - Madelyn Garbo : The Silent Patient
-
-
-
 
 
 
